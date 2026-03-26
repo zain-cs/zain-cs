@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Currently studying **Artificial Intelligence & Applications (7006ICT)**
+- 🎓 **CS Student** passionate about building real-world software
 - 🌱 Building projects in **Machine Learning, FastAPI, and Data Science**
 - 🔭 Working on real-world systems: fraud detection, earthquake prediction, social network APIs
 - 🤝 Open to **collaborating** on Python, ML, and backend projects
@@ -82,7 +82,7 @@
   <a href="https://github.com/zain-cs">
     <img src="https://img.shields.io/badge/GitHub-zain--cs-181717?style=for-the-badge&logo=github"/>
   </a>
-  <a href="mailto:mzainulabidin.cs@gmail.com">
+  <a href="/cdn-cgi/l/email-protection#523f28333b3c273e33303b363b3c7c312112353f333b3e7c313d3f">
     <img src="https://img.shields.io/badge/Gmail-mzainulabidin.cs-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -90,5 +90,4 @@
 ---
 
 <p align="center">
-  <i>"The best way to learn is to build."</i>
-</p>
+  
