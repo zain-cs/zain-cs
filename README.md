@@ -15,11 +15,13 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **CS Student** passionate about building real-world software
+- 🎓 **CS Student @ UAF** — BS Computer Science, 2023–2027
 - 🌱 Building projects in **Machine Learning, FastAPI, and Data Science**
 - 🔭 Working on real-world systems: fraud detection, earthquake prediction, social network APIs
-- 🤝 Open to **collaborating** on Python, ML, and backend projects
+- 🤝 **Open Source Contributor** — Merged PRs in [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) · GitHub's largest algorithm library (222k+ ⭐)
+- 👯 Open to **collaborating** on Python, ML, and backend projects
 - 📍 Based in **Faisalabad, Pakistan**
+- 📫 Reach me at **mzainulabidin.cs@gmail.com**
 - ⚡ Fun fact: I love **cricket** and exploring AI trends
 
 ---
@@ -29,13 +31,12 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -47,10 +48,10 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [🔗 Social Network API](https://github.com/zain-cs/Social-Network-API) | A social network API using FastAPI, MySQL & Graph Data Structures | Python, FastAPI, MySQL |
-| [🔗 Credit Card Fraud Detection](https://github.com/zain-cs/Credit-Card-Fraud-DBSCAN) | Unsupervised fraud detection using DBSCAN clustering & PCA | Python, Scikit-learn |
-| [🔗 Earthquake Alert Prediction](https://github.com/zain-cs/Earthquake-Alert-Prediction-System) | ML model predicting earthquake alert levels using Random Forest | Python, Jupyter |
-| [🔗 FastAPI PostgreSQL CRUD](https://github.com/zain-cs/fastapi-postgresql-crud) | Full-stack CRUD app with SQLAlchemy ORM & Pydantic schemas | Python, FastAPI, PostgreSQL |
+| [🔗 Social Network API](https://github.com/zain-cs/Social-Network-API) | RESTful social network API using Graph Data Structures for modeling connections | Python, FastAPI, MySQL |
+| [🔗 Credit Card Fraud Detection](https://github.com/zain-cs/Credit-Card-Fraud-DBSCAN) | Unsupervised fraud detection using DBSCAN clustering & PCA — no labeled data required | Python, Scikit-learn |
+| [🔗 Earthquake Alert Prediction](https://github.com/zain-cs/Earthquake-Alert-Prediction-System) | Random Forest model predicting seismic alert levels from earthquake features | Python, Scikit-learn, Jupyter |
+| [🔗 FastAPI PostgreSQL CRUD](https://github.com/zain-cs/fastapi-postgresql-crud) | Production-style CRUD app with SQLAlchemy ORM, Pydantic schemas & env config | Python, FastAPI, PostgreSQL |
 | [🔗 Project Stream](https://github.com/zain-cs/Project-Stream) | Student collaboration platform for sharing educational resources | PHP, MySQL, JavaScript |
 
 ---
@@ -89,5 +90,4 @@
 
 ---
 
-<p align="center">
-  
+<p align="center"><i>"Building real-world solutions, one commit at a time."</i></p>
