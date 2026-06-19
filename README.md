@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **CS Student @ UAF** — BS Computer Science, 2023–2027
+- 🎓 **BS Computer Science** @ University of Agriculture Faisalabad (2023–2027)
 - 🌱 Building projects in **Machine Learning, FastAPI, and Data Science**
 - 🔭 Working on real-world systems: fraud detection, earthquake prediction, social network APIs
 - 🤝 **Open Source Contributor** — Merged PRs in [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) · GitHub's largest algorithm library (222k+ ⭐)
