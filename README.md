@@ -22,6 +22,7 @@
 - 👯 Open to **collaborating** on Python, ML, and backend projects
 - 📍 Based in **Faisalabad, Pakistan**
 - 📫 Reach me at **mzainulabidin.cs@gmail.com**
+- 💼 Connect on **[LinkedIn](https://www.linkedin.com/in/muhammad-zain-cs/)**
 - ⚡ Fun fact: I love **cricket** and exploring AI trends
 
 ---
@@ -86,6 +87,9 @@
   <a href="mailto:mzainulabidin.cs@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-mzainulabidin.cs-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://www.linkedin.com/in/muhammad-zain-cs/">
+  <img src="https://img.shields.io/badge/LinkedIn-muhammad--zain--cs-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
 
 ---
