@@ -54,6 +54,7 @@
 | [🔗 Earthquake Alert Prediction](https://github.com/zain-cs/Earthquake-Alert-Prediction-System) | Random Forest model predicting seismic alert levels from earthquake features | Python, Scikit-learn, Jupyter |
 | [🔗 FastAPI PostgreSQL CRUD](https://github.com/zain-cs/fastapi-postgresql-crud) | Production-style CRUD app with SQLAlchemy ORM, Pydantic schemas & env config | Python, FastAPI, PostgreSQL |
 | [🔗 Project Stream](https://github.com/zain-cs/Project-Stream) | Student collaboration platform for sharing educational resources | PHP, MySQL, JavaScript |
+| [🔗 Titanic Survival Predictor](https://github.com/zain-cs/titanic-survival-predictor) | ML model predicting passenger survival using Random Forest — 82.12% accuracy | Python, Scikit-learn |
 
 ---
 
