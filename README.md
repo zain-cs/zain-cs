@@ -18,12 +18,19 @@
 - 🎓 **BS Computer Science** @ University of Agriculture, Faisalabad (2023–2027)
 - 🌱 Building projects in **Machine Learning, FastAPI, and Data Science**
 - 🔭 Working on real-world systems: fraud detection, earthquake prediction, social network APIs
-- 🤝 **Open Source Contributor** — Merged PR in [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) · GitHub's largest algorithm library (222k+ ⭐)
+- 🤝 **Open Source Contributor** — 2 merged PRs across algorithms and robotics codebases (see below)
 - 👯 Open to **collaborating** on Python, ML, and backend projects
 - 📍 Based in **Faisalabad, Pakistan**
 - 📫 Reach me at **mzainulabidin.cs@gmail.com**
 - 💼 Connect on **[LinkedIn](https://www.linkedin.com/in/muhammad-zain-cs/)**
 - ⚡ Fun fact: I love **cricket** and exploring AI trends
+
+---
+
+### 🌱 Open Source Contributions
+
+- **[TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)** (222k+ ⭐) — Added type hints and improved `generate_parentheses_iterative` ([#14324](https://github.com/TheAlgorithms/Python/pull/14324))
+- **[Agroecology-Lab/feldfreund_devkit_ros](https://github.com/Agroecology-Lab/feldfreund_devkit_ros)** — Replaced print statements with proper logging in a ROS2 robotics stack for autonomous farming robots ([#70](https://github.com/Agroecology-Lab/feldfreund_devkit_ros/pull/70))
 
 ---
 
