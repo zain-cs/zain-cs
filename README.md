@@ -18,7 +18,7 @@
 - 🎓 **BS Computer Science** @ University of Agriculture, Faisalabad (2023–2027)
 - 🌱 Building projects in **Machine Learning, FastAPI, and Data Science**
 - 🔭 Working on real-world systems: fraud detection, earthquake prediction, social network APIs
-- 🤝 **Open Source Contributor** — Merged PRs in [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) · GitHub's largest algorithm library (222k+ ⭐)
+- 🤝 **Open Source Contributor** — Merged PR in [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) · GitHub's largest algorithm library (222k+ ⭐)
 - 👯 Open to **collaborating** on Python, ML, and backend projects
 - 📍 Based in **Faisalabad, Pakistan**
 - 📫 Reach me at **mzainulabidin.cs@gmail.com**
@@ -53,7 +53,7 @@
 | [🔗 Credit Card Fraud Detection](https://github.com/zain-cs/Credit-Card-Fraud-DBSCAN) | Unsupervised fraud detection using DBSCAN clustering & PCA — no labeled data required | Python, Scikit-learn |
 | [🔗 Earthquake Alert Prediction](https://github.com/zain-cs/Earthquake-Alert-Prediction-System) | Random Forest model predicting seismic alert levels from earthquake features | Python, Scikit-learn, Jupyter |
 | [🔗 FastAPI PostgreSQL CRUD](https://github.com/zain-cs/fastapi-postgresql-crud) | Production-style CRUD app with SQLAlchemy ORM, Pydantic schemas & env config | Python, FastAPI, PostgreSQL |
-| [🔗 Project Stream](https://github.com/zain-cs/Project-Stream) | Student collaboration platform for sharing educational resources | PHP, MySQL, JavaScript |
+| [🔗 RAG Chatbot](https://github.com/zain-cs/rag-chatbots) | Local RAG chatbot answering questions from PDF/TXT documents using GPT-2 + Streamlit UI | Python, HuggingFace, PyTorch, Streamlit |
 | [🔗 Titanic Survival Predictor](https://github.com/zain-cs/titanic-survival-predictor) | ML model predicting passenger survival using Random Forest — 82.12% accuracy | Python, Scikit-learn |
 
 ---
