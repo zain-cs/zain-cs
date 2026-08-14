@@ -17,7 +17,7 @@
 
 - 🎓 **BS Computer Science** @ University of Agriculture, Faisalabad (2023–2027)
 - 🌱 Building projects in **Machine Learning, FastAPI, and Data Science**
-- 🔭 Working on real-world systems: fraud detection, earthquake prediction, social network APIs
+- 🔭 Working on real-world systems: **AI agents**, fraud detection, earthquake prediction, social network APIs
 - 🤝 **Open Source Contributor** — 2 merged PRs across algorithms and robotics codebases (see below)
 - 👯 Open to **collaborating** on Python, ML, and backend projects
 - 📍 Based in **Faisalabad, Pakistan**
@@ -39,6 +39,8 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
@@ -56,6 +58,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
+| [🔗 ResearchAgent](https://github.com/zain-cs/research-agent) | Autonomous ReAct-style AI agent that reasons step-by-step and calls tools (web search, Wikipedia, arXiv, calculator) to answer research questions with cited sources. CI/CD via GitHub Actions, containerized with Docker | Python, FastAPI, Groq, Streamlit, Docker |
 | [🔗 Social Network API](https://github.com/zain-cs/Social-Network-API) | RESTful social network API using Graph Data Structures for modeling connections | Python, FastAPI, MySQL |
 | [🔗 Credit Card Fraud Detection](https://github.com/zain-cs/Credit-Card-Fraud-DBSCAN) | Unsupervised fraud detection using DBSCAN clustering & PCA — no labeled data required | Python, Scikit-learn |
 | [🔗 Earthquake Alert Prediction](https://github.com/zain-cs/Earthquake-Alert-Prediction-System) | Random Forest model predicting seismic alert levels from earthquake features | Python, Scikit-learn, Jupyter |
