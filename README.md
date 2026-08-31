@@ -20,6 +20,7 @@
 - 🚀 Building real-world systems with **Python, FastAPI, ML, LLMs, databases, and Docker**
 - 🤝 **Open Source Contributor** with 5 merged PRs across algorithms, robotics, and Python projects
 - 🌱 Currently exploring **AI agents, RAG systems, APIs, and production-oriented ML applications**
+- ⚡ Fun fact: I love **cricket** and exploring AI trends
 
 ---
 
