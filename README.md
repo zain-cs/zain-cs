@@ -18,7 +18,7 @@
 - 🎓 **BS Computer Science** @ University of Agriculture, Faisalabad (2023–2027)
 - 🤖 Focused on **Artificial Intelligence, Machine Learning, and Backend Development**
 - 🚀 Building real-world systems with **Python, FastAPI, ML, LLMs, databases, and Docker**
-- 🤝 **Open Source Contributor** with 5 merged PRs across algorithms, robotics, and Python projects
+- 🤝 **Open Source Contributor** with 6 merged PRs across algorithms, robotics, and Python projects
 - 🌱 Currently exploring **AI agents, RAG systems, APIs, and production-oriented ML applications**
 - ⚡ Fun fact: I love **cricket** and exploring AI trends
 
@@ -29,8 +29,10 @@
 I actively contribute to open-source projects and enjoy improving existing codebases.
 
 - **[TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)**
-  Added type hints and improved `generate_parentheses_iterative`.
-  → [PR #14324](https://github.com/TheAlgorithms/Python/pull/14324)
+  - Added an `autocorrelation()` function for analyzing correlation between a dataset and its lagged values, with type hints, doctests, input validation, and zero-variance edge-case handling.
+    → [PR #14895](https://github.com/TheAlgorithms/Python/pull/14895)
+  - Added type hints and improved `generate_parentheses_iterative`.
+    → [PR #14324](https://github.com/TheAlgorithms/Python/pull/14324)
 
 - **[Agroecology-Lab/feldfreund_devkit_ros](https://github.com/Agroecology-Lab/feldfreund_devkit_ros)**
   Replaced print statements with proper logging in a ROS2 robotics stack for autonomous farming robots.
