@@ -18,7 +18,7 @@
 - 🎓 **BS Computer Science** @ University of Agriculture, Faisalabad (2023–2027)
 - 🤖 Focused on **Artificial Intelligence, Machine Learning, and Backend Development**
 - 🚀 Building real-world systems with **Python, FastAPI, ML, LLMs, databases, and Docker**
-- 🤝 **Open Source Contributor** with 6 merged PRs across algorithms, robotics, and Python projects
+- 🤝 **Open Source Contributor** with 16 merged PRs across algorithms, robotics, and Python projects
 - 🌱 Currently exploring **AI agents, RAG systems, APIs, and production-oriented ML applications**
 - ⚡ Fun fact: I love **cricket** and exploring AI trends
 
